@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b71ee891-e20d-44e0-b6e7-dd9a0091d95a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ProjectId" id="1afKAozKK5VkdQ0liM5YIVu94al" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="PHP" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b71ee891-e20d-44e0-b6e7-dd9a0091d95a" name="Default Changelist" comment="" />
+      <created>1587121070425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587121070425</updated>
+      <workItem from="1587121083201" duration="161000" />
+      <workItem from="1587121249467" duration="673000" />
+      <workItem from="1587121954224" duration="704000" />
+      <workItem from="1587123731899" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="739" y="261" key="FileChooserDialogImpl" timestamp="1587123901470">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.311.1366.728@0.0.1920.1040" timestamp="1587123901470" />
+    <state x="259" y="9" key="SettingsEditor" timestamp="1587123793343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="259" y="9" key="SettingsEditor/0.0.1920.1040/1920.311.1366.728@0.0.1920.1040" timestamp="1587123793343" />
+    <state x="2104" y="317" key="SettingsEditor/0.0.1920.1040/1920.311.1366.728@1920.311.1366.728" timestamp="1587122620154" />
+    <state x="2387" y="551" key="com.intellij.ide.util.TipDialog" timestamp="1587121956007">
+      <screen x="1920" y="311" width="1366" height="728" />
+    </state>
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.311.1366.728@0.0.1920.1040" timestamp="1587121161851" />
+    <state x="2387" y="551" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.311.1366.728@1920.311.1366.728" timestamp="1587121956007" />
+    <state x="790" y="310" key="svn.repositoryBrowser" timestamp="1587123874313">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="790" y="310" key="svn.repositoryBrowser/0.0.1920.1040/1920.311.1366.728@0.0.1920.1040" timestamp="1587123874313" />
+  </component>
+</project>
